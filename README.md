@@ -32,6 +32,15 @@ Format: ![Alt Text](url)
 Links
 http://github.com - automatic!
 [GitHub](http://github.com)
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 Blockquotes
 As Kanye West said:
 
