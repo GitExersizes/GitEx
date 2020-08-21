@@ -46,6 +46,13 @@ function fancyAlert(arg) {
         $.facebox({div:'#foo'})
       }
     }
+    
+    ```python
+    def foo():
+    if not bar:
+        return True
+    ```
+ 
 
 Blockquotes
 As Kanye West said:
